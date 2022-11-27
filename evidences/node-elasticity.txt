@@ -1,0 +1,34 @@
+nguyenle@nguyenles-MacBook-Pro infra % kubectl get pods -A                                                                                        
+NAMESPACE     NAME                                  READY   STATUS    RESTARTS   AGE
+kube-system   aws-node-cj79g                        1/1     Running   0          3h34m
+kube-system   aws-node-mwdnk                        1/1     Running   0          17m
+kube-system   aws-node-wdchb                        1/1     Running   0          3h34m
+kube-system   coredns-f47955f89-k8jsr               1/1     Running   0          3h38m
+kube-system   coredns-f47955f89-zq4p2               1/1     Running   0          3h38m
+kube-system   kube-proxy-9zf2z                      1/1     Running   0          3h34m
+kube-system   kube-proxy-l8jxl                      1/1     Running   0          17m
+kube-system   kube-proxy-rzj9c                      1/1     Running   0          3h34m
+kube-system   metrics-server-684454657f-f6sgf       1/1     Running   0          7m7s
+udacity       bloaty-mcbloatface-58c98b98d8-2qzxv   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-2zns4   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-4f4nm   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-6dwj5   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-9j8nl   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-9r9z8   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-bx8ws   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-h2848   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-k5cvp   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-lwr8w   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-m9m5w   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-nf5cz   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-nn42w   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-rln8z   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-rz92w   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-tr9ds   1/1     Running   0          34m
+udacity       bloaty-mcbloatface-58c98b98d8-trvm2   1/1     Running   0          34m
+udacity       canary-v1-64598c676f-rj2wm            1/1     Running   0          173m
+udacity       canary-v2-5dc9c56687-s9f5w            1/1     Running   0          100m
+udacity       green-5cdd96c9b4-hdnkg                1/1     Running   0          84m
+udacity       green-5cdd96c9b4-nwbzb                1/1     Running   0          84m
+udacity       green-5cdd96c9b4-vz2h2                1/1     Running   0          84m
+nguyenle@nguyenles-MacBook-Pro infra %

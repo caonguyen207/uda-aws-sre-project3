@@ -1,0 +1,41 @@
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 1</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 1</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 2</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 2</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 2</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 1</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 2</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 1</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 2</h1>
+</html>
+[root@ip-10-100-2-206 /]# curl 172.20.74.38
+<html>
+<h1>This is version 2</h1>
+</html>
+[root@ip-10-100-2-206 /]#
